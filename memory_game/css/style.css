@@ -6,6 +6,7 @@ h1 {
 	font-weight: 400;
 	font-size: 45px;
 	letter-spacing: 1px;
+	margin: 0;
 
 }
 h2 {
@@ -25,10 +26,12 @@ h2 {
 body {
 	background-color: #eef2f2;
 	text-align: center;
+	margin: 0;
 }
 img {
 	box-shadow: 5px 5px 6px black;
-	margin: 0 15px;
+	margin: 40 8px;
+	
 }
 
 p{
@@ -43,9 +46,29 @@ p{
 a{
 	text-decoration: none;
 	/*font-weight: 700;*/
-	color: #F15B21;
+/*	color: #F15B21;*/
 	letter-spacing: 1px;
 	font-weight: 600;
 	font-size: 20px;
 
+}
+header {
+	background-color: #F15B31;
+	color: #FFFFFF;
+	padding: 30px 20px;
+}
+nav {
+	background-color: #00A6B3;
+	color: #FFFFFF;
+	padding: 20px 0;
+}
+
+nav a {
+	margin: 0 20px;
+	float: left;
+	color: #FFFFFF;
+}
+main {
+	width: 850px;
+	margin: 35px auto;
 }
