@@ -98,9 +98,11 @@ footer{
 }
 .copyright {
 	float: left;
+	color: white;
 }
 .message {
 	float:right;
+	color: white;
 }
 
 .clearfix:after {
