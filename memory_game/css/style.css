@@ -28,7 +28,7 @@ body {
 	text-align: center;
 	margin: 0;
 }
-img {
+.cards {
 	box-shadow: 5px 5px 6px black;
 	margin: 40 8px;
 	
